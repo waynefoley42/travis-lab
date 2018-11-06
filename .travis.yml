@@ -1,0 +1,9 @@
+launguage: python
+
+python:
+
+ -"2.7"
+
+script:
+
+ - python hellow.py
